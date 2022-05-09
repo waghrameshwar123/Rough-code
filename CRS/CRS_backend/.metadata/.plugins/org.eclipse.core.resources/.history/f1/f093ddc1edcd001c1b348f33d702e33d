@@ -1,0 +1,5 @@
+package com.crs.main.model;
+
+public class Login {
+
+}
